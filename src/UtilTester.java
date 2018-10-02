@@ -5,7 +5,7 @@
 
 import org.junit.*;
 import static org.junit.Assert.assertEquals;
-
+//life is good
 public class UtilTester {
     public static final double delta = 0.000001;
 
